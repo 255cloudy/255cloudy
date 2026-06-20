@@ -1,7 +1,7 @@
 <!-- Profile README for 255cloudy -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=D1AFFF&center=true&vCenter=true&multiline=true&width=800&lines=Hey%2C+I'm+Rucha Collins!+%F0%9F%8C%A5;React+%E2%9A%9B%EF%B8%8F+%7C+TypeScript+%F0%9F%92%99+%7C+Django+%F0%9F%A6%84+%7C+FastAPI+%E2%9A%A1+%7C+AI+%F0%9F%A4%96" alt="Animated heading">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=D1AFFF&center=true&vCenter=true&multiline=true&width=800&lines=Hey%2C+I'm+RuchaCollins!+%F0%9F%8C%A5;React+%E2%9A%9B%EF%B8%8F+%7C+TypeScript+%F0%9F%92%99+%7C+Django+%F0%9F%A6%84+%7C+FastAPI+%E2%9A%A1+%7C+AI+%F0%9F%A4%96" alt="Animated heading">
 </p>
 
 <div align="center" style="background: #181824; padding: 2em; border-radius: 16px; box-shadow: 0 4px 24px #0005; color: #C9D1D9;">
